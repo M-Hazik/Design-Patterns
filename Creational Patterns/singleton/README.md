@@ -1,0 +1,3 @@
+naive singleton
+
+threadsafe singleton
