@@ -1,9 +1,7 @@
-
+Singletons are not thread safe.
  
- #Singletons are not thread safe.
+Hypothaticaly, the singleton instnce should return same name but they dont. 
+Moeover, behaviour is unpredictable.
  
- Hypothaticaly, the singleton instnce should return same name but they dont. 
- Their behaviour is unpredictable.
- 
- The code demonstrates the problem of singletons in multi-threaded application.
+The code demonstrates the problem of singletons in multi-threaded application.
  
