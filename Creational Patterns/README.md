@@ -2,3 +2,4 @@
 
 Following are the types of  creational patterns.
 * Singleton
+* Prototype
