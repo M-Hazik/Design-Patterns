@@ -6,3 +6,4 @@ These are divided into three caegories.
 * Creational Patterns
 * Structural Patterns
 * Behavioral Patterns
+* Concurrency Patterns 
